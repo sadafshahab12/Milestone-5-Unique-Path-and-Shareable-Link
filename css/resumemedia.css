@@ -29,7 +29,7 @@
   #resume {
     display: block;
     margin: 4rem 3rem;
-    padding: 6rem;
+    padding: 2rem;
   }
   .left {
     justify-items: start;
@@ -49,6 +49,9 @@
     font-size: 4rem;
   }
   .webScreen {
+    display: none;
+  }
+  .palette{
     display: none;
   }
   .resume-left-info .object-para {
